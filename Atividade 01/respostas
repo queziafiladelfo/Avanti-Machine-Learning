@@ -1,0 +1,23 @@
+1 - 
+    Machine learning é um subcampo de da inteligência artificial que
+    permite otimização. É a área que permite que sistemas façam previ-
+    sões e minimize erros.
+
+2 - 
+    Conjunto de treinamento são modelos, em que o algoritmo aprende 
+    padrões  para fazer previsões.
+    Conjunto de validação ajusta o modelo de treinamento.
+    Conjunto de teste é usado no final, quando o modela já foi treinado
+    e otimizado para avaliação de desempenho real. 
+
+3 -
+    Primeiro ver os dados que estão ausentes e usar algoritmos que lidam
+    com esse tipo de situação.
+
+4 - 
+Uma matriz de confusão é uma tabela que ajuda a avaliar o desempenho de um modelo de classificação.
+Ela organiza as previsões facilitando entender o que está certo e errado.
+
+5 -
+    Na saúde para para diagnóstico de doenças e na construção  agricultura pra controle
+    de platanções.
